@@ -1,6 +1,6 @@
 def printWelcome(name, times):
     for i in range(0, times):
-        print("Welcome" + name + " ", end="")
+        print("Hello" + name + " ", end="")
 
 
 name = input("Please type your name: ")
